@@ -1,0 +1,1 @@
+<button class="btn btn-default" data-toggle="confirmation">Confirmation</button>
